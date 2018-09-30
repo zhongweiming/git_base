@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 2211  new branch has been created simple and easy
 changed by source
+changed by clone
